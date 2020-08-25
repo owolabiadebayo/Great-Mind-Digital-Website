@@ -5,5 +5,5 @@ HTML
 CSS
 its a responsive Web
 <p> This project is dedicated to my dream of running my own digital school so as to help my community
-	and help to expose to young ones to digitalisation</p>
+	and help to expose to young ones to digitalisation.</p>
 	
